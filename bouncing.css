@@ -1,0 +1,40 @@
+html, body {
+  margin: 0;
+  background-color: black;
+}
+
+html {
+  font-family: sans-serif;
+  height: 100%;
+}
+
+body {
+  overflow: hidden;
+  height: inherit;
+}
+
+h1 {
+  font-size: 2rem;
+  letter-spacing: -1px;
+  position: absolute;
+  margin: 0;
+  top: -4px;
+  right: 5px;
+  color: cyan ;
+  text-shadow: 0 0 4px 	darkslategray;
+}
+
+p {
+  position: absolute;
+  margin: 0;
+  top: 60px;
+  right: 5px;
+  color: #aaa;
+}
+p1 {
+  font-size: 14px;
+position: absolute;
+  top: 40px;
+  right: 5px;
+  color: #A9A9A9;	
+}
